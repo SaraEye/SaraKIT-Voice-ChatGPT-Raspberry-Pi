@@ -53,5 +53,6 @@ On our website, you can discover an even more advanced version we've dubbed Sara
 <img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/f5206b72-e3f5-498b-a1e6-212b0843cf69" width="350">
 
 SaraEye: https://youtu.be/aLGZZ5pAoj0
+Pan/Tilt Camera (or Turret Base): https://sarakit.saraai.com/example-of-use/camera-pan-tilt
 
 SaraKIT Project Page: [https://sarakit.saraai.com](https://sarakit.saraai.com)
