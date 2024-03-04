@@ -2,8 +2,8 @@
 
 SaraKIT is equipped with three microphones and a specialized sound processor that cleanses the voice and supports speech recognition on Raspberry Pi from distances up to 16.4 feet (5 meters). Building a voice-operated ChatGPT is possible through various methods, with many examples available on GitHub. Here, I propose a solution based on the offline speech recognition tool Vosk, used for wake word detection and command recognition, and Piper for speech generation - both programs are currently the best offline Text to Speech (TTS) and Speech to Text (STT) solutions for Raspberry Pi. The offline approach means continuous internet connectivity is not required, ensuring privacy and a free solution.
 
-<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/6d403cfd-8274-4f6f-aac1-2d18061a0d2b" width="350">
-<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/02763830-c1da-48e3-aeb1-a0246703cd5e" width="350">
+<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/6d403cfd-8274-4f6f-aac1-2d18061a0d2b" width="400">
+<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/02763830-c1da-48e3-aeb1-a0246703cd5e" width="400">
 
 For more details on Piper, see here: [https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi](https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi)<br>
 For more on Vosk, check out: [https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi](https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi)
