@@ -2,7 +2,7 @@
 
 SaraKIT is equipped with three microphones and a specialized sound processor that cleanses the voice and supports speech recognition on Raspberry Pi from distances up to 16.4 feet (5 meters). Building a voice-activated ChatGPT can be achieved in various ways, and while there are numerous examples on GitHub, this guide proposes a solution based on the offline speech recognition tool Vosk for wake word detection and command recognition. For speech generation, we utilize Piper, an offline text-to-speech program. Both of these tools currently represent the best offline solutions for Raspberry Pi concerning Text to Speech and Speech to Text functionality. The offline aspect means constant internet connectivity is not required, ensuring privacy and security within your home environment, and importantly, it's a free solution.
 
-For more details on Piper, see here: [https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi](https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi)
+For more details on Piper, see here: [https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi](https://github.com/SaraEye/SaraKIT-Text-To-Speech-Piper-Raspberry-Pi)<br>
 For more on Vosk, check out: [https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi](https://github.com/SaraEye/SaraKIT-Speech-Recognition-Vosk-Raspberry-Pi)
 
 ## Installation on SaraKIT
