@@ -56,3 +56,8 @@ SaraEye: https://youtu.be/aLGZZ5pAoj0 <br>
 Pan/Tilt Camera (or Turret Base): https://sarakit.saraai.com/example-of-use/camera-pan-tilt
 
 SaraKIT Project Page: [https://sarakit.saraai.com](https://sarakit.saraai.com/example-of-use/sarakit-with-chatgpt)
+
+The effects of this simple yet powerful script can be seen in the video below:
+
+https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/a8dc61c7-e378-4f37-ba42-7035ecb2d205
+
