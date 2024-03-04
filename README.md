@@ -49,8 +49,8 @@ This setup creates a powerful, private, and interactive voice assistant using th
 
 On our website, you can discover an even more advanced version we've dubbed SaraEye, where ChatGPT activation doesn't rely on a wake word but on gaze recognition, mimicking human interaction. When we look at someone, they know we're addressing them. Similarly, here, you simply look at ChatGPT to engage, eliminating the need for constant wake prompts like "Alexa, Alexa, Alexa..." :)
 
-<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/b841da3d-4ae7-4aa2-9995-73d92b5b37fd" width="350">
-<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/f5206b72-e3f5-498b-a1e6-212b0843cf69" width="350">
+<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/b841da3d-4ae7-4aa2-9995-73d92b5b37fd" width="400">
+<img src="https://github.com/SaraEye/SaraKIT-Voice-ChatGPT-Raspberry-Pi/assets/35704910/f5206b72-e3f5-498b-a1e6-212b0843cf69" width="400">
 
 SaraEye: https://youtu.be/aLGZZ5pAoj0 <br>
 Pan/Tilt Camera (or Turret Base): https://sarakit.saraai.com/example-of-use/camera-pan-tilt
