@@ -1,8 +1,3 @@
-# sudo apt-get install pip
-# sudo apt-get install -y python3-pyaudio
-# sudo pip3 install vosk
-# ----pip install pyaudio
-
 import os
 import sys
 import json
