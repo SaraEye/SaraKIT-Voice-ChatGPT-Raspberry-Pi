@@ -55,4 +55,4 @@ On our website, you can discover an even more advanced version we've dubbed Sara
 SaraEye: https://youtu.be/aLGZZ5pAoj0 <br>
 Pan/Tilt Camera (or Turret Base): https://sarakit.saraai.com/example-of-use/camera-pan-tilt
 
-SaraKIT Project Page: [https://sarakit.saraai.com](https://sarakit.saraai.com)
+SaraKIT Project Page: [https://sarakit.saraai.com](https://sarakit.saraai.com/example-of-use/sarakit-with-chatgpt)
