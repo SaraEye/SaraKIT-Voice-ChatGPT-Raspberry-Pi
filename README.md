@@ -54,4 +54,4 @@ On our website, you can discover an even more advanced version we've dubbed Sara
 
 SaraEye: https://youtu.be/aLGZZ5pAoj0
 
-SaraKIT Project Page: [sarakit.saraai.com](sarakit.saraai.com)
+SaraKIT Project Page: [https://sarakit.saraai.com](https://sarakit.saraai.com)
